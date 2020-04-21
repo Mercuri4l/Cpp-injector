@@ -1,2 +1,2 @@
 # Ivjector
-A C++/CLR DLL injector. I wouldn't recommend using it for games with anticheats...
+An attempt at C++ Mem manipulation
